@@ -3,4 +3,5 @@
 #Игнорировать файл box и кеш:
 packer/*.box
 packer/packer_cache/
-
+.vagrant
+*.vdi
